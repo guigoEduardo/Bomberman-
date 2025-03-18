@@ -1,0 +1,7 @@
+C:\Users\guigo\Desktop\ProjetoC#\Bomberman\bin\Debug\Bomberman.exe.config
+C:\Users\guigo\Desktop\ProjetoC#\Bomberman\bin\Debug\Bomberman.exe
+C:\Users\guigo\Desktop\ProjetoC#\Bomberman\bin\Debug\Bomberman.pdb
+C:\Users\guigo\Desktop\ProjetoC#\Bomberman\obj\Debug\Bomberman.csproj.AssemblyReference.cache
+C:\Users\guigo\Desktop\ProjetoC#\Bomberman\obj\Debug\Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\guigo\Desktop\ProjetoC#\Bomberman\obj\Debug\Bomberman.exe
+C:\Users\guigo\Desktop\ProjetoC#\Bomberman\obj\Debug\Bomberman.pdb
